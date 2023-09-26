@@ -1,0 +1,8 @@
+Caja
+act
+cuentas a pagar
+psv
+cuentas a cobrar
+act
+impuestos a pagar
+psv
